@@ -15,3 +15,9 @@ As notas de aula estão disponíveis nos seguintes links:
 - 5ª 13:00 -- 13:50
 - 6ª 11:10 -- 12:00
 - 6ª 17:30 -- 18:20
+
+## Slides da aula de apresentação da disciplina
+- [Física 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
+
+## Listas de exercícios de Física 1
+- [Lista 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista1.pdf)
