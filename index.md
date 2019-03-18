@@ -18,6 +18,7 @@ As notas de aula estão disponíveis nos seguintes links:
 
 ## Slides da aula de apresentação da disciplina
 - [Física 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
+- [Laboratório de Física 2](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslab.pdf)
 
 ## Listas de exercícios de Física 1
 - [Lista 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista1.pdf)
