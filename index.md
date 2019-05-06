@@ -27,3 +27,4 @@ As notas de aula estão disponíveis nos seguintes links:
 ## Listas de exercícios de Física 1
 - [Lista 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista1.pdf)
 - [Lista 2](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista2.pdf)
+- [Lista 3](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista3.pdf)
