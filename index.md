@@ -30,4 +30,4 @@ As notas de aula estão disponíveis nos seguintes links:
 - [Lista 3](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista3.pdf)
 
 ## Formulário para requisição de prova substitutiva
-- [Provas S1/S2](https://docs.google.com/forms/d/e/1FAIpQLSdSNbquUKl6ff4unEBuZcujy3FRMiPLiMqLPV364_INccJk8w/viewform?usp=sf_link)
+- [Provas S1/S2](https://docs.google.com/forms/d/e/1FAIpQLSdSNbquUKl6ff4unEBuZcujy3FRMiPLiMqLPV364_INccJk8w/viewform?usp=sf_link) (disponível até dia 16/05)
