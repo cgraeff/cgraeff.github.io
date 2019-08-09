@@ -8,7 +8,7 @@ layout: home
 ## Notas de aula
 As notas de aula estão disponíveis nos seguintes links:
 - [Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/main.pdf)
-- [Laboratório de Física 2](https://github.com/cgraeff/NotasLab/raw/master/main.pdf)
+- [Laboratórios de Física 1 e 2](https://github.com/cgraeff/NotasLab/raw/master/main.pdf)
   
 ## Horários de atendimento
 #### Professor
