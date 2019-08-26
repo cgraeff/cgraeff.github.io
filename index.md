@@ -16,11 +16,9 @@ As notas de aula estão disponíveis nos seguintes links:
 - 5ª 16:40 -- 17:30
 - 6ª 11:10 -- 12:00
 - 6ª 16:40 -- 17:30
-
-{% comment %} 
+ 
 #### Monitores
-- Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1FgriJVVWNY5n2tntd-B7idnRg2uhNHRRXKAJ_fIwlb0/edit#gid=0)
-{% endcomment %} 
+- Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1VnwVlXlQYueAbZJsHrcGjxDnB8MxbyHxW5klQbBansc/edit#gid=0)
 
 ## Slides da aula de apresentação da disciplina
 - [Física 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
