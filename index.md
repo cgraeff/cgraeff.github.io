@@ -38,3 +38,6 @@ As notas de aula estão disponíveis nos seguintes links:
 - [Provas S1/S2](https://docs.google.com/forms/d/e/1FAIpQLSdSNbquUKl6ff4unEBuZcujy3FRMiPLiMqLPV364_INccJk8w/viewform?usp=sf_link) (disponível até dia 16/05)
 - [Provas S3/S4](https://docs.google.com/forms/d/e/1FAIpQLSfd5qEo5JVnwkiA2pb5z-SAIIm4CGbHRYpROzwN5IZn9ss_Uw/viewform) (disponível até dia 15/07)
 {% endcomment %} 
+
+## Notas nas avaliações
+- [Física 1 EMC 2019-1 (Laboratório e Teoria)](https://docs.google.com/spreadsheets/d/1Nzzg3TbVAdmIOdHGiom2kGyY0q3iGj2mUEN-pPye10o/edit?usp=sharing)
