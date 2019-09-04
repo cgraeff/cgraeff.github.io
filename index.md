@@ -4,7 +4,6 @@
 
 title: Home
 layout: home
-published: false
 ---
 
 # [Início]
