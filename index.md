@@ -34,7 +34,8 @@ As notas de aula estão disponíveis nos seguintes links:
 {% endcomment %} 
 
 ## Notas nas avaliações
-- [Física 1 EMC 2019-1 (Laboratório e Teoria)](https://docs.google.com/spreadsheets/d/1Nzzg3TbVAdmIOdHGiom2kGyY0q3iGj2mUEN-pPye10o/edit?usp=sharing)
+- [Física 1 Mecânica (Laboratório e Teoria)](https://docs.google.com/spreadsheets/d/1Nzzg3TbVAdmIOdHGiom2kGyY0q3iGj2mUEN-pPye10o/edit?usp=sharing)
+- [Física 1 Computação](https://docs.google.com/spreadsheets/d/1tXWyhbqy3Taw9FYnOJg7oiDUpgiE10SfobTycIMgttM/edit#gid=0)
 
 {% comment %} 
 ## Formulário para requisição de prova substitutiva
