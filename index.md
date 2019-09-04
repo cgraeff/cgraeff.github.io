@@ -5,8 +5,6 @@
 title: Home
 layout: home
 ---
-
-# [Início]
  
 ## Horários de atendimento
 ### Professor
