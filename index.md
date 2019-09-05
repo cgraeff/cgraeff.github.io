@@ -18,7 +18,7 @@ layout: home
 
 ## Notas de aula
 As notas de aula estão disponíveis nos seguintes links:
-- [Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/main.pdf)
+- [Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
 - [Laboratórios de Física 1 e 2](https://github.com/cgraeff/NotasLab/raw/master/main.pdf)
 
 ## Slides da aula de apresentação da disciplina
@@ -27,9 +27,9 @@ As notas de aula estão disponíveis nos seguintes links:
 
 ## Listas de exercícios de Física 1
 - [Lista 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista1.pdf)
+- [Lista 2](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista2.pdf)
 
 {% comment %} 
-- [Lista 2](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista2.pdf)
 - [Lista 3](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista3.pdf)
 - [Lista 4](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista4.pdf)
 {% endcomment %} 
