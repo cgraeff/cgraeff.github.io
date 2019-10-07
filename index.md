@@ -36,11 +36,11 @@ As notas de aula estão disponíveis nos seguintes links:
 
 ## Notas nas avaliações
 - [Física 1 Mecânica (Laboratório e Teoria)](https://docs.google.com/spreadsheets/d/1Nzzg3TbVAdmIOdHGiom2kGyY0q3iGj2mUEN-pPye10o/edit?usp=sharing)
-- [Física 1 Computação](https://docs.google.com/spreadsheets/d/1tXWyhbqy3Taw9FYnOJg7oiDUpgiE10SfobTycIMgttM/edit#gid=0)
+- [Física 1 Computação (Teoria)](https://docs.google.com/spreadsheets/d/1tXWyhbqy3Taw9FYnOJg7oiDUpgiE10SfobTycIMgttM/edit#gid=0)
 
-{% comment %} 
 ## Formulário para requisição de prova substitutiva
-- [Provas S1/S2](https://docs.google.com/forms/d/e/1FAIpQLSdSNbquUKl6ff4unEBuZcujy3FRMiPLiMqLPV364_INccJk8w/viewform?usp=sf_link) (disponível até dia 16/05)
+- [Provas S1/S2](https://docs.google.com/forms/d/e/1FAIpQLSdSNbquUKl6ff4unEBuZcujy3FRMiPLiMqLPV364_INccJk8w/viewform?usp=sf_link) (disponível até dia 14/10)
+{% comment %} 
 - [Provas S3/S4](https://docs.google.com/forms/d/e/1FAIpQLSfd5qEo5JVnwkiA2pb5z-SAIIm4CGbHRYpROzwN5IZn9ss_Uw/viewform) (disponível até dia 15/07)
 {% endcomment %} 
 
