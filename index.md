@@ -9,12 +9,15 @@ layout: home
 ## Horários de atendimento
 ### Professor
 *Os atendimentos são realizados na sala L008*
-- 6ª 11:10 -- 12:00
 - 5ª 16:40 -- 17:30
+- 6ª 11:10 -- 12:00
 - 6ª 16:40 -- 17:30
  
 ### Monitores
-- Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1VnwVlXlQYueAbZJsHrcGjxDnB8MxbyHxW5klQbBansc/edit#gid=0)
+- Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1VnwVlXlQYueAbZJsHrcGjxDnB8MxbyHxW5klQbBansc/edit#gid=0) (2019-2)
+
+## Cronograma de atividades
+Os cronogramas das aulas teóricas e de laboratório estão nas *notas de aula*. Vide links na seção abaixo.
 
 ## Notas de aula
 As notas de aula estão disponíveis nos seguintes links:
