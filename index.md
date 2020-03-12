@@ -12,7 +12,8 @@ layout: home
 - 5ª 16:40 -- 17:30
 - 6ª 11:10 -- 12:00
 - 6ª 16:40 -- 17:30
- 
+**Na sexta-feira, dia 13/03, não haverá atendimento devido a uma viagem pessoal. Os atendimentos serão repostos na terça-feira, dia 17/03 das 11:10 às 12:00, e na sexta-feira, dia 20/03 das 17:30 às 18:20.**
+
 ### Monitores
 - Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1VnwVlXlQYueAbZJsHrcGjxDnB8MxbyHxW5klQbBansc/edit#gid=0) (2019-2)
 
