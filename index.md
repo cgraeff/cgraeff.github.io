@@ -6,28 +6,13 @@ title: Home
 layout: home
 ---
 
-## COVID-19: Orientações
-Devido à pandemia de COVID-19, todos os alunos estão oficialmente em atividades acompanhadas ([regulamento](http://portal.utfpr.edu.br/documentos/graduacao-e-educacao-profissional/prograd/legislacao/legislacao-geral-para-todos-os-cursos/reso-071-18-regulamento-de-atividades-acompanhadas.pdf)).
-
-### Atividades referentes à parte teórica:
-Para que as faltas sejam abonadas, é necessário que os alunos entreguem um trabalho escrito. Considerando o período inicial de duas semanas, defino que:
-- Vocês devem **responder aos exercícios 1 a 54** da lista de exercícios propostos para a Prova 1 (Lista 1, abaixo).
-- A lista deve ser feita individualmente, e a entrega será por escrito ao final do período de suspensão das atividades presenciais.
-- Avaliações só serão realizadas ao retornarmos às atividades normais.
-
-Em substituição às aulas, vocês devem fazer a leitura das seções relevantes das notas de aula. Como numa leitura não faz sentido seguir um cronograma, eu deixo livre o calendário de estudos que vocês devem seguir. Notem, no entanto, que ele deve ser aproximadamente equivalente ao cronograma de conteúdos presente na seção "Cronograma" das notas. Não se atentem às datas, mas sim aos conteúdos, que estão divididos por aula.
-
-Para garantir o melhor andamento possível, eu vou disponibilizar a solução de exemplos e parte dos exercícios em vídeo. ~~Tais videos serão disponibilizados nesta página conforme forem produzidos.~~ Os vídeos estão disponíveis no [Youtube](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4Pn94UlKvu_fr5BcNTRQQQ). Os videos seguirão formato de "resolução em quadro", mas serão elaborados usando uma mesa digitalizadora. Como não tenho experiência com a produção desse tipo de conteúdo, talvez eles demorem alguns dias para serem liberados. Vou procurar fazer com que esse atraso seja o mínimo possível.
-
-Além disso, vou disponibilizar um servidor [discord](https://discord.gg/kYx2VGE) para que possamos interagir via texto/voz. Assim poderemos criar tópicos para a discussão de dúvidas de cada exemplo/problema, ou mesmo sobre o texto das notas de aula. Escolhi o discord pois ele roda em todas as principais plataformas e também através de navegadores, dispensando a instalação. Notem que podem ocorrer problemas de conexão pois o serviço está sendo muito procurado.
-
-### Atividades de laboratório:
-As atividades de laboratório estão **completamente suspensas** até o fim do período sem atividades presenciais. Elas serão repostas ao final de tal período conforme cronograma a ser elaborado.
+## Física 1 em regime ADNP
+Em 06/08 foi enviada uma proposta de atividades em regime remoto (ADNP). Verifique o seu e-mail cadastrado no sistema da UTFPR.
 
 ***
 
 ## Horários de atendimento
-**Os horários de atendimento estão suspensos em devido à pandemia de COVID-19. Entre em contato através do servidor [discord](https://discord.gg/kYx2VGE), ou através do e-mail.**
+**Os horários de atendimento estão suspensos em devido à pandemia de COVID-19.**
 
 ### Professor
 *Os atendimentos são realizados na sala L008*
@@ -55,6 +40,12 @@ As notas de aula estão disponíveis nos seguintes links:
 - [Lista 2](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista2.pdf)
 - [Lista 3](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista3.pdf)
 - [Lista 4](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista4.pdf)
+
+## Vídeos
+- [Vídeos da Lista 1](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4Pn94UlKvu_fr5BcNTRQQQ)
+- [Vídeos da Lista 2](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ641ClHrK1u8RV6i5_cKyDr)
+- [Vídeos da Lista 3](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ6u2kPsKzWl2ePO-JV9gprS)
+- [Vídeos da Lista 4](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4lRy-nI4aailu9nnteT3Tb)
 {% comment %} 
 
 {% endcomment %} 
