@@ -16,9 +16,7 @@ As atividades da disciplina seguirão em regime ADNP a partir de 25 de agosto de
 ### Professor
 *Os atendimentos são realizados on-line*
 
-- 5ª 16:40 -- 17:30
-- 6ª 11:10 -- 12:00
-- 6ª 16:40 -- 17:30
+- 6ª 10:20 -- 12:00
 
 {% comment %} 
 ### Monitores
