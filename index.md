@@ -7,7 +7,7 @@ layout: home
 ---
 
 ## Física 1 em regime ADNP
-As atividades da disciplina seguirão em regime ADNP a partir de 25 de agosto de 2020 e serão coordenadas através do Moodle. [Acesse e se inscreva.](https://moodle.utfpr.edu.br/course/view.php?id=14859)
+As atividades da disciplina seguirão em regime ADNP a partir de 25 de agosto de 2020 e serão coordenadas através do Moodle. Foram criadas duas páginas [uma para a parte teórica](https://moodle.utfpr.edu.br/course/view.php?id=14859) e [outra para o laboratório](https://moodle.utfpr.edu.br/course/view.php?id=14957). Os alunos de Eng. da Computação devem se increver na teórica, os de Eng. Elétrica nade laboratório, e os alunos de Eng. Mecânica em ambas.
 
 ***
 
