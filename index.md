@@ -6,26 +6,32 @@ title: Home
 layout: home
 ---
 
-## Física 1 em regime ADNP
-As atividades da disciplina seguirão em regime ADNP a partir de 25 de agosto de 2020 e serão coordenadas através do Moodle. Foram criadas duas páginas [uma para a parte teórica](https://moodle.utfpr.edu.br/course/view.php?id=14859) e [outra para o laboratório](https://moodle.utfpr.edu.br/course/view.php?id=14957). Os alunos de Eng. da Computação devem se increver na teórica, os de Eng. Elétrica nade laboratório, e os alunos de Eng. Mecânica em ambas.
+## Física 1
+As atividades da disciplina serão realizadas remotamente:
 
-***
+Moodle:
+- [FI21NB 2020-2 MC - PB](https://moodle.utfpr.edu.br/course/view.php?id=16945)
+- [FI21NB 2020-2 CP - PB](https://moodle.utfpr.edu.br/course/view.php?id=16944)
+
+Videoconferências:
+- [Eng. Mecânica (2ª, 4ª, 10:20 - 12:00)](https://meet.google.com/vew-snyb-juq)
+- [Eng. da Computação (2ª, 4ª, 15:50 - 17:30)](https://meet.google.com/rkn-ibbd-fpj)
+
 
 ## Horários de atendimento
 
 ### Professor
-*Os atendimentos são realizados on-line*
+- [6ª 9:10 -- 12:00](https://meet.google.com/fgf-fbau-pwr)
 
-- 6ª 10:20 -- 12:00
-
-{% comment %} 
 ### Monitores
+*Em breve*
+{% comment %} 
 - Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1VnwVlXlQYueAbZJsHrcGjxDnB8MxbyHxW5klQbBansc/edit#gid=0) (2019-2)
 
 {% endcomment %} 
 
 ## Cronograma de atividades
-Os cronogramas das aulas teóricas e de laboratório estão nas *notas de aula*. Vide links na seção abaixo.
+Os cronogramas das aulas teóricas e de laboratório estão no Moodle.
 
 ## Notas de aula
 As notas de aula estão disponíveis nos seguintes links:
@@ -35,7 +41,9 @@ As notas de aula estão disponíveis nos seguintes links:
 
 ## Slides da aula de apresentação da disciplina
 - [Física 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
+{% comment %} 
 - [Laboratório de Física 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslab.pdf)
+{% endcomment %} 
 
 ## Listas de exercícios de Física 1
 - [Lista 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista1.pdf)
