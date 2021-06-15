@@ -12,8 +12,8 @@ As atividades da disciplina serão realizadas remotamente:
 
 Moodle:
 
-- [FI21NB 2021-2 MC - PB](https://moodle.utfpr.edu.br/course/view.php?id=18571)
-- [FI21NB 2021-2 CP - PB](https://moodle.utfpr.edu.br/course/view.php?id=18570)
+- [FI21NB 2021-1 MC - PB](https://moodle.utfpr.edu.br/course/view.php?id=18571)
+- [FI21NB 2021-1 CP - PB](https://moodle.utfpr.edu.br/course/view.php?id=18570)
 
 Videoconferências:
 
