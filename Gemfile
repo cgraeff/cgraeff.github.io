@@ -11,7 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8.5"
 
 # Test
-gem "kramdown", ">= 2.3.0"
+gem "kramdown"
 
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
