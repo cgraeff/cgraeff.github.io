@@ -8,31 +8,26 @@ layout: home
 
 ## Física 1
 
-As atividades da disciplina serão realizadas remotamente:
+*Abaixo seguem links para recursos que utilizaremos na disciplina e informações importantes.*
 
-Moodle:
-
-- [FI21NB 2021-1 MC - PB](https://moodle.utfpr.edu.br/course/view.php?id=18571)
-- [FI21NB 2021-1 CP - PB](https://moodle.utfpr.edu.br/course/view.php?id=18570)
-
-Videoconferências:
-
-- [Eng. Mecânica (2ª, 4ª, 10:20 - 12:00)](https://meet.google.com/eus-zsii-nym)
-- [Eng. da Computação (2ª, 4ª, 15:50 - 17:30)](https://meet.google.com/itf-xvdy-uct)
 
 ## Horários de atendimento
 
 ### Professor
 
-- [6ª 9:10 -- 12:00](https://meet.google.com/mhz-upby-vvs)
+- 6ª 9:10 -- 12:00, Sala L008
+
+{% comment}
 
 ### Monitores
 
 - Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1VnwVlXlQYueAbZJsHrcGjxDnB8MxbyHxW5klQbBansc/edit#gid=0)
 
+{% endcomment}
+
 ## Cronograma de atividades
 
-Os cronogramas das aulas teóricas e de laboratório estão no Moodle.
+Os cronogramas das aulas teóricas e de laboratório estão disponíveis no Sistema Acadêmico da UTFPR e nas respectivas Notas de Aula.
 
 ## Notas de aula
 
