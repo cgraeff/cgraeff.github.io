@@ -6,11 +6,6 @@ title: Home
 layout: home
 ---
 
-## Física 1
-
-*Abaixo seguem links para recursos que utilizaremos na disciplina e informações importantes.*
-
-
 ## Horários de atendimento
 
 ### Professor
@@ -25,9 +20,13 @@ layout: home
 
 {% endcomment %}
 
-## Cronograma de atividades
+# Física 1
 
-Os cronogramas das aulas teóricas e de laboratório estão disponíveis no Sistema Acadêmico da UTFPR e nas respectivas Notas de Aula.
+*Links para recursos que utilizaremos na disciplina e informações importantes.*
+
+## Cronograma das atividades
+
+Devido ao atraso na realização do SISU, algumas aulas serão adiadas e iniciaremos as atividades com uma revisão (dia 23/03 para a turma de Engenharia da Computação, dia 22/03 para Engenharia Mecânica). As datas das reposições serão discutidas no momento oportuno. **O cronograma de todas as aividades está nas Notas de Aula, abaixo (página 6 para Engenharia da Computação; página 10 para Engenharia Mecânica).**
 
 ## Notas de aula
 
