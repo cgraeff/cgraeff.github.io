@@ -28,21 +28,19 @@ layout: home
 
 Devido ao atraso na realização do SISU, algumas aulas serão adiadas e iniciaremos as atividades com uma revisão (dia 23/03 para a turma de Engenharia da Computação, dia 22/03 para Engenharia Mecânica). As datas das reposições serão discutidas no momento oportuno. **O cronograma de todas as aividades está nas Notas de Aula, abaixo (página 6 para Engenharia da Computação; página 10 para Engenharia Mecânica).**
 
+
+## Slides da aula de pré-apresentação da disciplina
+
+- [Slides Engenharia da Computação](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides-emc.pdf)
+- [Slides Engenharia Mecânica](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides-ecp.pdf)
+
+
 ## Notas de aula
 
 As notas de aula estão disponíveis nos seguintes links:
 
 - [Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
 - [Laboratórios de Física 1 e 2](https://github.com/cgraeff/NotasLab/raw/master/NotasLaboratorio.pdf)
-
-{% comment %}
-
-## Slides da aula de apresentação da disciplina
-
-- [Física 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
-- [Laboratório de Física 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslab.pdf)
-
-{% endcomment %} 
 
 ## Listas de exercícios de Física 1
 
