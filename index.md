@@ -12,13 +12,9 @@ layout: home
 
 - 6ª 9:10 -- 12:00, Sala L008
 
-{% comment %}
-
 ### Monitores
 
-- Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1VnwVlXlQYueAbZJsHrcGjxDnB8MxbyHxW5klQbBansc/edit#gid=0)
-
-{% endcomment %}
+- Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1EkO0h9F_ChLYcePkiHaQhBUnNROMHf8xsbJ0u6G1P84/edit#gid=0)
 
 # Física 1
 
