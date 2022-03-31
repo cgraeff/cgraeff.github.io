@@ -47,6 +47,9 @@ As notas de aula estão disponíveis nos seguintes links:
 - [Lista 4](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista4.pdf)
 
 ## Vídeos
+Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de teoria](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ5Hcu1HFNUB0eube9LAol7a).
+
+### Listas de exercícios
 
 - [Vídeos da Lista 1](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4Pn94UlKvu_fr5BcNTRQQQ)
 - [Vídeos da Lista 2](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ641ClHrK1u8RV6i5_cKyDr)
