@@ -28,6 +28,8 @@ Devido ao atraso na realização do SISU, algumas aulas serão adiadas e iniciar
 ## Slides da aula de apresentação da disciplina
 
 - [Slides Engenharia da Computação e Eng. Mecânica](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
+- [Videoaula de apresentação da disciplina - Eng. da Computação](https://youtu.be/Q-ZSrBKpS0c)
+- [Videoaula de apresentação da disciplina - Eng. Mecânica](https://youtu.be/PjTARNOFaVc)
 
 
 ## Notas de aula
@@ -55,13 +57,17 @@ Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de te
 - [Vídeos da Lista 3](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ6u2kPsKzWl2ePO-JV9gprS)
 - [Vídeos da Lista 4](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4lRy-nI4aailu9nnteT3Tb)
 
+### Laboratório
+
+- [Elaboração de gráficos em papel milimetrado](https://www.youtube.com/watch?v=YqKnV53UBDs&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=5&t=2s)
+- [Elaboração de gráficos em software de planilhas](https://www.youtube.com/watch?v=x2kVREJWKGc&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=6&t=2s)
+
 {% comment %}
 
 ## Notas nas avaliações
 
 - [Física 1 Engenharia Mecânica (Laboratório e Teoria)](https://docs.google.com/spreadsheets/d/1Nzzg3TbVAdmIOdHGiom2kGyY0q3iGj2mUEN-pPye10o/edit?usp=sharing)
 - [Física 1 Engenharia da Computação (Teoria)](https://docs.google.com/spreadsheets/d/1tXWyhbqy3Taw9FYnOJg7oiDUpgiE10SfobTycIMgttM/edit#gid=0)
-- [Física 1 Engenharia Elétrica (Laboratório)](https://docs.google.com/spreadsheets/d/1hNJSOLrsFmK02JwwTJB78IU9Fjli7BdtVrqG3OBT6fg/edit#gid=0)
 
 ## Formulário para requisição de prova substitutiva
 
