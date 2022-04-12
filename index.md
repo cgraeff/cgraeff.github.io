@@ -22,7 +22,7 @@ layout: home
 
 ## Cronograma das atividades
 
-Devido ao atraso na realização do SISU, algumas aulas serão adiadas e iniciaremos as atividades com uma revisão (dia 23/03 para a turma de Engenharia da Computação, dia 22/03 para Engenharia Mecânica). As datas das reposições serão discutidas no momento oportuno. **O cronograma de todas as aividades está nas Notas de Aula, abaixo (página 6 para Engenharia da Computação; página 10 para Engenharia Mecânica).**
+Devido ao atraso na realização do SISU, algumas aulas serão adiadas e iniciaremos as atividades com uma revisão (dia 23/03 para a turma de Engenharia da Computação, dia 22/03 para Engenharia Mecânica). As datas das reposições serão discutidas no momento oportuno. **O cronograma de todas as atividades está nas Notas de Aula de Física 1, abaixo (página 6 para Engenharia da Computação; página 10 para Engenharia Mecânica).**
 
 
 ## Slides da aula de apresentação da disciplina
