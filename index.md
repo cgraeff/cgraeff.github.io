@@ -65,11 +65,11 @@ Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de te
 
 ## Notas nas avaliações
 
-- [Física 1 Engenharia Mecânica (Laboratório e Teoria)](https://docs.google.com/spreadsheets/d/1YJ-GOlEGYu7TiYdfbR6B-GNXQt7p2myKIDaxF7jNwNM/edit?usp=sharing)
+- [Física 1 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1YJ-GOlEGYu7TiYdfbR6B-GNXQt7p2myKIDaxF7jNwNM/edit?usp=sharing)
+
+- [Física 1 Engenharia da Computação](https://docs.google.com/spreadsheets/d/1yTfxl3OYf6ZvsUTBMNJNxtjZaYSIRB4LtKL_g7oVdtk/edit?usp=sharing)
 
 {% comment %}
-- [Física 1 Engenharia da Computação (Teoria)](https://docs.google.com/spreadsheets/d/1tXWyhbqy3Taw9FYnOJg7oiDUpgiE10SfobTycIMgttM/edit#gid=0)
-
 ## Formulário para requisição de prova substitutiva
 
 - [Provas S1/S2](https://docs.google.com/forms/d/e/1FAIpQLSdSNbquUKl6ff4unEBuZcujy3FRMiPLiMqLPV364_INccJk8w/viewform?usp=sf_link) (disponível até dia 14/10)
