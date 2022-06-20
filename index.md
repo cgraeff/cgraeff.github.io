@@ -69,10 +69,7 @@ Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de te
 
 - [Física 1 Engenharia da Computação](https://docs.google.com/spreadsheets/d/1yTfxl3OYf6ZvsUTBMNJNxtjZaYSIRB4LtKL_g7oVdtk/edit?usp=sharing)
 
-{% comment %}
 ## Formulário para requisição de prova substitutiva
+Usem o link abaixo para requisitar a prova substitutiva/exame que desejam fazer.
+- [Requisição de substitutivas/exame](https://forms.gle/TgxTConRNDgu7EEU6)
 
-- [Provas S1/S2](https://docs.google.com/forms/d/e/1FAIpQLSdSNbquUKl6ff4unEBuZcujy3FRMiPLiMqLPV364_INccJk8w/viewform?usp=sf_link) (disponível até dia 14/10)
-- [Provas S3/S4](https://docs.google.com/forms/d/e/1FAIpQLSfd5qEo5JVnwkiA2pb5z-SAIIm4CGbHRYpROzwN5IZn9ss_Uw/viewform) (disponível até dia 16/12)
-
-{% endcomment %}
