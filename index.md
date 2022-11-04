@@ -44,7 +44,7 @@ As notas de aula estão disponíveis nos seguintes links:
 - [Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
 - [Laboratórios de Física 1 e 2](https://github.com/cgraeff/NotasLab/raw/master/NotasLaboratorio.pdf)
 
-{% endcomment %}
+{% comment %}
 
 ## Listas de exercícios de Física 1
 
