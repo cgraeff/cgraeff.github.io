@@ -10,8 +10,12 @@ layout: home
 
 ### Professor
 
-- 6ª 9:10 -- 12:00, Sala L008
+- 3ª 8:20 -- 9:10
+- 6ª 10:20 -- 11:10
 
+_Caso necessário, um horário extraordinário pode ser combinado previamente._
+
+{% comment %}
 ### Monitores
 
 - Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1EkO0h9F_ChLYcePkiHaQhBUnNROMHf8xsbJ0u6G1P84/edit#gid=0)
@@ -31,6 +35,7 @@ Devido ao atraso na realização do SISU, algumas aulas serão adiadas e iniciar
 - [Videoaula de apresentação da disciplina - Eng. da Computação](https://youtu.be/Q-ZSrBKpS0c)
 - [Videoaula de apresentação da disciplina - Eng. Mecânica](https://youtu.be/PjTARNOFaVc)
 
+{% endcomment %}
 
 ## Notas de aula
 
@@ -38,6 +43,8 @@ As notas de aula estão disponíveis nos seguintes links:
 
 - [Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
 - [Laboratórios de Física 1 e 2](https://github.com/cgraeff/NotasLab/raw/master/NotasLaboratorio.pdf)
+
+{% endcomment %}
 
 ## Listas de exercícios de Física 1
 
@@ -57,11 +64,14 @@ Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de te
 - [Vídeos da Lista 3](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ6u2kPsKzWl2ePO-JV9gprS)
 - [Vídeos da Lista 4](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4lRy-nI4aailu9nnteT3Tb)
 
+{% endcomment %}
+
 ### Laboratório
 
 - [Elaboração de gráficos em papel milimetrado](https://www.youtube.com/watch?v=YqKnV53UBDs&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=5&t=2s)
 - [Elaboração de gráficos em software de planilhas](https://www.youtube.com/watch?v=x2kVREJWKGc&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=6&t=2s)
 
+{% comment %}
 
 ## Notas nas avaliações
 
@@ -73,3 +83,4 @@ Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de te
 Usem o link abaixo para requisitar a prova substitutiva/exame que desejam fazer.
 - [Requisição de substitutivas/exame](https://forms.gle/TgxTConRNDgu7EEU6)
 
+{% endcomment %}
