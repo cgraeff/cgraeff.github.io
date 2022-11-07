@@ -11,7 +11,7 @@ layout: home
 ### Professor
 
 - 3ª 8:20 -- 9:10
-- 55555ª 10:20 -- 11:10
+- 5ª 10:20 -- 11:10
 
 _Caso necessário, um horário extraordinário pode ser combinado previamente._
 
