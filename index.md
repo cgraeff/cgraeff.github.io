@@ -54,7 +54,11 @@ As notas de aula estão disponíveis nos seguintes links:
 - [Lista 3](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista3.pdf)
 - [Lista 4](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista4.pdf)
 
+{% endcomment %}
+
 ## Vídeos
+
+{% comment %}
 Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de teoria](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ5Hcu1HFNUB0eube9LAol7a).
 
 ### Listas de exercícios
@@ -71,13 +75,13 @@ Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de te
 - [Elaboração de gráficos em papel milimetrado](https://www.youtube.com/watch?v=YqKnV53UBDs&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=5&t=2s)
 - [Elaboração de gráficos em software de planilhas](https://www.youtube.com/watch?v=x2kVREJWKGc&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=6&t=2s)
 
-{% comment %}
-
 ## Notas nas avaliações
 
-- [Física 1 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1YJ-GOlEGYu7TiYdfbR6B-GNXQt7p2myKIDaxF7jNwNM/edit?usp=sharing)
+- [Lab Física 2 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1YGlWuaENg0qtkfzisvfZ4bNcEs5Ucsjfju9v_7YIqPU/edit?usp=sharing)
 
-- [Física 1 Engenharia da Computação](https://docs.google.com/spreadsheets/d/1yTfxl3OYf6ZvsUTBMNJNxtjZaYSIRB4LtKL_g7oVdtk/edit?usp=sharing)
+- [Lab Física 2 Engenharia Civil](https://docs.google.com/spreadsheets/d/1rSa6AnVRU25vELLwlwbpwPluwpCx6FegXv_63YvhERU/edit?usp=sharing)
+
+{% comment %}
 
 ## Formulário para requisição de prova substitutiva
 Usem o link abaixo para requisitar a prova substitutiva/exame que desejam fazer.
