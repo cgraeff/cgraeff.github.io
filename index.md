@@ -10,32 +10,28 @@ layout: home
 
 ### Professor
 
-- 3ª 8:20 -- 9:10
-- 5ª 10:20 -- 11:10
+- 6ª 9:10 -- 10:00
 
-_Caso necessário, um horário extraordinário pode ser combinado previamente._
+### Monitores
+*Em breve*
 
 {% comment %}
-### Monitores
 
 - Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1EkO0h9F_ChLYcePkiHaQhBUnNROMHf8xsbJ0u6G1P84/edit#gid=0)
 
-# Física 1
+{% endcomment %}
+
+# Disciplinas
 
 *Links para recursos que utilizaremos na disciplina e informações importantes.*
 
-## Cronograma das atividades
-
-Devido ao atraso na realização do SISU, algumas aulas serão adiadas e iniciaremos as atividades com uma revisão (dia 23/03 para a turma de Engenharia da Computação, dia 22/03 para Engenharia Mecânica). As datas das reposições serão discutidas no momento oportuno. **O cronograma de todas as atividades está nas Notas de Aula de Física 1, abaixo (página 6 para Engenharia da Computação; página 10 para Engenharia Mecânica).**
-
-
 ## Slides da aula de apresentação da disciplina
 
-- [Slides Engenharia da Computação e Eng. Mecânica](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
-- [Videoaula de apresentação da disciplina - Eng. da Computação](https://youtu.be/Q-ZSrBKpS0c)
-- [Videoaula de apresentação da disciplina - Eng. Mecânica](https://youtu.be/PjTARNOFaVc)
+- [Slides Física 1 + Lab. 1 Eng. Mecânica](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
+- [Slides Lab. 2 Eng. Mecânica](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslab.pdf)
 
-{% endcomment %}
+## Cronograma das disciplinas
+*Os cronogramas estão disponíveis no início das notas de aula de teoria e de laboratório, veja abaixo.*
 
 ## Notas de aula
 
@@ -43,8 +39,6 @@ As notas de aula estão disponíveis nos seguintes links:
 
 - [Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
 - [Laboratórios de Física 1 e 2](https://github.com/cgraeff/NotasLab/raw/master/NotasLaboratorio.pdf)
-
-{% comment %}
 
 ## Listas de exercícios de Física 1
 
@@ -54,21 +48,19 @@ As notas de aula estão disponíveis nos seguintes links:
 - [Lista 3](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista3.pdf)
 - [Lista 4](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista4.pdf)
 
-{% endcomment %}
+## Questionários de laboratório
+*As respostas dos questionários devem ser submetidas através do Moodle nos cursos abaixo, seguindo o formato detalhado nesse vídeo (inserir link).*
+- [Moodle Lab. Física 1](https://moodle.utfpr.edu.br/course/view.php?id=24890)
+- [Moodle Lab. Física 2](https://moodle.utfpr.edu.br/course/view.php?id=24891)
 
 ## Vídeos
-
-{% comment %}
-Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de teoria](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ5Hcu1HFNUB0eube9LAol7a).
-
 ### Listas de exercícios
+*Notem que os números dos exercícios nos vídeos podem não corresponder aos da lista devido a atualizações da lista*
 
 - [Vídeos da Lista 1](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4Pn94UlKvu_fr5BcNTRQQQ)
 - [Vídeos da Lista 2](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ641ClHrK1u8RV6i5_cKyDr)
 - [Vídeos da Lista 3](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ6u2kPsKzWl2ePO-JV9gprS)
 - [Vídeos da Lista 4](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4lRy-nI4aailu9nnteT3Tb)
-
-{% endcomment %}
 
 ### Laboratório
 
@@ -77,9 +69,9 @@ Os vídeos das aulas remotas se encontram ao final da [playlist de vídeos de te
 
 ## Notas nas avaliações
 
-- [Lab Física 2 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1YGlWuaENg0qtkfzisvfZ4bNcEs5Ucsjfju9v_7YIqPU/edit?usp=sharing)
+- [Física 1 + Lab 1 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1xeTDKGgXrxuOYDAsozvNXJTfHkD9F1HU0gpkcwbushY/edit?usp=sharing)
 
-- [Lab Física 2 Engenharia Civil](https://docs.google.com/spreadsheets/d/1rSa6AnVRU25vELLwlwbpwPluwpCx6FegXv_63YvhERU/edit?usp=sharing)
+- [Lab 2 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1UIGvQ_3lF025vcCpICnpxi79CYDWdE_R51h7N5kJD-o/edit?usp=sharing)
 
 {% comment %}
 
