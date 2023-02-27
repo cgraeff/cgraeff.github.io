@@ -21,24 +21,14 @@ layout: home
 
 {% endcomment %}
 
-# Disciplinas
+# Física 1 + Laboratório 1 Eng. Mecânica:
 
 *Links para recursos que utilizaremos na disciplina e informações importantes.*
 
-## Slides da aula de apresentação da disciplina
-
+## Material
 - [Slides Física 1 + Lab. 1 Eng. Mecânica](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
-- [Slides Lab. 2 Eng. Mecânica](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslab.pdf)
-
-## Cronograma das disciplinas
-*Os cronogramas estão disponíveis no início das notas de aula de teoria e de laboratório, veja abaixo.*
-
-## Notas de aula
-
-As notas de aula estão disponíveis nos seguintes links:
-
-- [Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
-- [Laboratórios de Física 1 e 2](https://github.com/cgraeff/NotasLab/raw/master/NotasLaboratorio.pdf)
+- Notas de aula: [Notas de Aula: Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
+- Cronograma da disciplina: *O cronograma está disponível no início das notas de aula de teoria e de laboratório.*
 
 ## Listas de exercícios de Física 1
 
@@ -48,13 +38,12 @@ As notas de aula estão disponíveis nos seguintes links:
 - [Lista 3](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista3.pdf)
 - [Lista 4](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista4.pdf)
 
-## Questionários de laboratório
-*As respostas dos questionários devem ser submetidas através do Moodle nos cursos abaixo, seguindo o formato detalhado nesse vídeo (inserir link).*
-- [Moodle Lab. Física 1](https://moodle.utfpr.edu.br/course/view.php?id=24890)
-- [Moodle Lab. Física 2](https://moodle.utfpr.edu.br/course/view.php?id=24891)
+## Questionários de laboratório 1
+- *As respostas dos questionários deve seguir o formato detalhado nesse vídeo (inserir link).*
+- As respostas devem ser submetidas neste curso no Moodle: [Moodle Lab. Física 1](https://moodle.utfpr.edu.br/course/view.php?id=24890)
 
 ## Vídeos
-### Listas de exercícios
+### Listas de exercícios de teoria
 *Notem que os números dos exercícios nos vídeos podem não corresponder aos da lista devido a atualizações da lista*
 
 - [Vídeos da Lista 1](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4Pn94UlKvu_fr5BcNTRQQQ)
@@ -71,8 +60,6 @@ As notas de aula estão disponíveis nos seguintes links:
 
 - [Física 1 + Lab 1 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1xeTDKGgXrxuOYDAsozvNXJTfHkD9F1HU0gpkcwbushY/edit?usp=sharing)
 
-- [Lab 2 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1UIGvQ_3lF025vcCpICnpxi79CYDWdE_R51h7N5kJD-o/edit?usp=sharing)
-
 {% comment %}
 
 ## Formulário para requisição de prova substitutiva
@@ -80,3 +67,23 @@ Usem o link abaixo para requisitar a prova substitutiva/exame que desejam fazer.
 - [Requisição de substitutivas/exame](https://forms.gle/TgxTConRNDgu7EEU6)
 
 {% endcomment %}
+
+# Laboratório de Física 2
+*Links para recursos que utilizaremos na disciplina e informações importantes.*
+
+## Material
+- [Slides Lab. 2 Eng. Mecânica](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslab.pdf)
+- Notas de aula: [Notas de Aula: Laboratórios de Física 1 e 2](https://github.com/cgraeff/NotasLab/raw/master/NotasLaboratorio.pdf)
+- Cronograma da disciplina: *O cronograma está disponível no início das notas de aula de teoria e de laboratório.*
+
+## Vídeos
+- [Elaboração de gráficos em papel milimetrado](https://www.youtube.com/watch?v=YqKnV53UBDs&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=5&t=2s)
+- [Elaboração de gráficos em software de planilhas](https://www.youtube.com/watch?v=x2kVREJWKGc&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=6&t=2s)
+
+## Questionários de laboratório 2
+- *As respostas dos questionários deve seguir o formato detalhado nesse vídeo (inserir link).*
+- As respostas devem ser submetidas neste curso no Moodle:[Moodle Lab. Física 2](https://moodle.utfpr.edu.br/course/view.php?id=24891)
+
+## Notas nas avaliações
+- [Lab 2 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1UIGvQ_3lF025vcCpICnpxi79CYDWdE_R51h7N5kJD-o/edit?usp=sharing)
+
