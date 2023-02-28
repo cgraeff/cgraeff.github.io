@@ -82,7 +82,7 @@ Usem o link abaixo para requisitar a prova substitutiva/exame que desejam fazer.
 
 ## Questionários de laboratório 2
 - *As respostas dos questionários deve seguir o formato detalhado nesse vídeo (inserir link).*
-- As respostas devem ser submetidas neste curso no Moodle:[Moodle Lab. Física 2](https://moodle.utfpr.edu.br/course/view.php?id=24891)
+- As respostas devem ser submetidas neste curso no Moodle: [Moodle Lab. Física 2](https://moodle.utfpr.edu.br/course/view.php?id=24891)
 
 ## Notas nas avaliações
 - [Lab 2 Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1UIGvQ_3lF025vcCpICnpxi79CYDWdE_R51h7N5kJD-o/edit?usp=sharing)
