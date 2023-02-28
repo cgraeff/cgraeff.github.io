@@ -10,7 +10,7 @@ layout: home
 
 ### Professor
 
-- 6ª 9:10 -- 10:00
+- 6ª 8:20 -- 10:00
 
 ### Monitores
 *Em breve*
