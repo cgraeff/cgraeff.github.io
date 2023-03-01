@@ -28,6 +28,7 @@ layout: home
 ## Material
 - [Slides Física 1 + Lab. 1 Eng. Mecânica](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides.pdf)
 - Notas de aula: [Notas de Aula: Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
+- Notas de aula: [Notas de Aula: Laboratórios de Física 1 e 2](https://github.com/cgraeff/NotasLab/raw/master/NotasLaboratorio.pdf)
 - Cronograma da disciplina: *O cronograma está disponível no início das notas de aula de teoria e de laboratório.*
 
 ## Listas de exercícios de Física 1
@@ -39,7 +40,7 @@ layout: home
 - [Lista 4](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista4.pdf)
 
 ## Questionários de laboratório 1
-- *As respostas dos questionários deve seguir o formato detalhado nesse vídeo (inserir link).*
+- As respostas dos questionários deve seguir o formato detalhado [nesse vídeo](https://www.youtube.com/watch?v=BIVszojx9B4).
 - As respostas devem ser submetidas neste curso no Moodle: [Moodle Lab. Física 1](https://moodle.utfpr.edu.br/course/view.php?id=24890)
 
 ## Vídeos
@@ -81,7 +82,7 @@ Usem o link abaixo para requisitar a prova substitutiva/exame que desejam fazer.
 - [Elaboração de gráficos em software de planilhas](https://www.youtube.com/watch?v=x2kVREJWKGc&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=6&t=2s)
 
 ## Questionários de laboratório 2
-- *As respostas dos questionários deve seguir o formato detalhado nesse vídeo (inserir link).*
+- As respostas dos questionários deve seguir o formato detalhado [nesse vídeo](https://www.youtube.com/watch?v=BIVszojx9B4).
 - As respostas devem ser submetidas neste curso no Moodle: [Moodle Lab. Física 2](https://moodle.utfpr.edu.br/course/view.php?id=24891)
 
 ## Notas nas avaliações
