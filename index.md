@@ -17,8 +17,6 @@ layout: home
 
 - Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1rWODYf0BJ3mYBPS6_nAP3Uu74_RC6utAZyQVqbtkDyQ/edit#gid=0)
 
-{% endcomment %}
-
 # Física 1 + Laboratório 1 Eng. Mecânica:
 
 *Links para recursos que utilizaremos na disciplina e informações importantes.*
