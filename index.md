@@ -10,14 +10,12 @@ layout: home
 
 ### Professor
 
-- 6ª 8:20 -- 10:00
+- 3ª 17:30 - 18:20
+- 5ª 17:30 - 18:20
 
 ### Monitores
-*Em breve*
 
-{% comment %}
-
-- Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1EkO0h9F_ChLYcePkiHaQhBUnNROMHf8xsbJ0u6G1P84/edit#gid=0)
+- Veja a [planilha de horários](https://docs.google.com/spreadsheets/d/1rWODYf0BJ3mYBPS6_nAP3Uu74_RC6utAZyQVqbtkDyQ/edit#gid=0)
 
 {% endcomment %}
 
