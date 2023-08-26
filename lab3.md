@@ -20,4 +20,5 @@ permalink: /lab3/
 - [Elaboração de gráficos em software de planilhas](https://www.youtube.com/watch?v=x2kVREJWKGc&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=6&t=2s)
 
 ## Notas nas avaliações
-- *Em breve*
+- [Engenharia Civil](https://docs.google.com/spreadsheets/d/1jSljSxtMIdXV2PUtUWjJe6P7LCwAjXSAK0-N2nVGVaU/edit?usp=sharing)
+- [Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1-M2lEaOICcVvf9iWYJBk_BC3WpW5IhjEdhFIJxve24w/edit?usp=sharing)

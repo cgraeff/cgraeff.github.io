@@ -20,5 +20,5 @@ permalink: /lab2/
 - [Elaboração de gráficos em software de planilhas](https://www.youtube.com/watch?v=x2kVREJWKGc&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=6&t=2s)
 
 ## Notas nas avaliações
-- *Em breve*
+- [Engenharia Mecânica](https://docs.google.com/spreadsheets/d/16NVYv7vsttRYJNautJWfGyO125JavQUg5Uyuyk9LoOQ/edit?usp=sharing)
 
