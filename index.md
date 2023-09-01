@@ -15,7 +15,7 @@ layout: home
 
 ## Monitores
 
-- *Em breve.*
+- [Planilha de horários](https://docs.google.com/spreadsheets/d/1m-RhdLRbx21uT9659vtgehU-_VDfDt54QzuhEf3H0Dg/edit?usp=sharing)
 
 # Disciplinas
 - [Física Teórica 1]({{ site.baseurl }}{% link fisica1.md %})
