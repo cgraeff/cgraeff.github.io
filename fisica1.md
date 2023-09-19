@@ -11,6 +11,9 @@ permalink: /fisica1/
 - Notas de aula: [Notas de Aula: Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
 - Cronograma da disciplina: *O cronograma está disponível no sistema e no início das notas de aula de teoria.*
 
+## Planilha de notas
+- [Planilha de notas das avaliações](https://docs.google.com/spreadsheets/d/1VVPK8xeJ8iA4JcVbB1dXw_KZo9_l7datCVHnaCA5A1M)
+
 ## Listas de exercícios de Física 1
 
 - [Lista 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista1.pdf)
