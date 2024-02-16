@@ -31,7 +31,7 @@ Abaixo seguem os cronogramas das turmas de Engenharia Civil e de Engenharia Mec�
 
 ### Engenharia Civil
 | Aula | Data  | Turma | Experimento |
-|:----:|:-----:|:-----:|-------------|
+| ---- | ----- | ----- | ----------- |
 |   1  | 05/03 | A e B | Apresentação da disciplina. |
 |   2  | 12/03 |   A   | Exp. 1, Introdução ao eletromagnetismo. |
 |   3  | 19/03 |   B   | Exp. 1, Introdução ao eletromagnetismo. |
