@@ -24,7 +24,6 @@ permalink: /lab3/
 ## Notas nas avaliações
 - [Engenharia Civil](https://docs.google.com/spreadsheets/d/1jSljSxtMIdXV2PUtUWjJe6P7LCwAjXSAK0-N2nVGVaU/edit?usp=sharing)
 - [Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1-M2lEaOICcVvf9iWYJBk_BC3WpW5IhjEdhFIJxve24w/edit?usp=sharing)
-{% endcomment %}
 
 ## Cronograma de atividades
 Abaixo seguem os cronogramas das turmas de Engenharia Civil e de Engenharia Mecânica
@@ -70,3 +69,5 @@ Abaixo seguem os cronogramas das turmas de Engenharia Civil e de Engenharia Mec�
 |  14  | 21/06 | A e B | Prova de laboratório. |
 |  15  | 28/06 | A e B | Entrega das notas da prova de laboratório. |
 |  16  | 05/07 | A e B | Entrega das notas finais da disciplina. |
+
+{% endcomment %}
