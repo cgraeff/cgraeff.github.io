@@ -27,5 +27,46 @@ permalink: /lab3/
 {% endcomment %}
 
 ## Cronograma de atividades
+Abaixo seguem os cronogramas das turmas de Engenharia Civil e de Engenharia Mecânica
 
+### Engenharia Civil
+| Aula | Data  | Turma | Experimento |
+|:----:|:-----:|:-----:|-------------|
+|   1  | 05/03 | A e B | Apresentação da disciplina. |
+|   2  | 12/03 |   A   | Exp. 1, Introdução ao eletromagnetismo. |
+|   3  | 19/03 |   B   | Exp. 1, Introdução ao eletromagnetismo. |
+|   4  | 26/03 |   A   | Exp. 2, Superfícies equipotenciais. |
+|   5  | 02/04 |   B   | Exp. 2, Superfícies equipotenciais. |
+|   6  | 09/04 |   A   | Exp. 3, Capacitores de placas paralelas. |
+|   7  | 16/04 |   B   | Exp. 3, Capacitores de placas paralelas. |
+|   8  | 23/04 |   A   | Exp. 4, Lei de Ohm. |
+|   9  | 30/04 |   B   | Exp. 4, Lei de Ohm. |
+|  10  | 07/05 |   A   | Exp. 5, Circuito RC. |
+|  11  | 14/05 |   B   | Exp. 5, Circuito RC. |
+|  12  | 21/05 |   A   | Exp. 6, Campo magnético terrestre. |
+|  13  | 28/05 |   B   | Exp. 6, Campo magnético terrestre. |
+|  14  | 04/06 | A e B | Aula para dúvidas. |
+|  15  | 11/06 | A e B | Prova de laboratório. |
+|  16  | 18/06 | A e B | Entrega das notas da prova de laboratório. |
+|  17  | 25/06 | A e B | 2a chamada de experimentos. |
+|  16  | 02/07 | A e B | Entrega das notas finais da disciplina. |
 
+### Engenharia Mecânica
+| Aula | Data  | Turma | Experimento |
+|:----:|:-----:|:-----:|-------------|
+|   1  | 08/03 | A e B | Apresentação da disciplina. |
+|   2  | 15/03 |   A   | Exp. 1, Introdução ao eletromagnetismo. |
+|   3  | 22/03 |   B   | Exp. 1, Introdução ao eletromagnetismo. |
+|   4  | 05/03 |   A   | Exp. 2, Superfícies equipotenciais. |
+|   5  | 12/04 |   B   | Exp. 2, Superfícies equipotenciais. |
+|   6  | 19/04 |   A   | Exp. 3, Capacitores de placas paralelas. |
+|   7  | 26/04 |   B   | Exp. 3, Capacitores de placas paralelas. |
+|   8  | 03/04 |   A   | Exp. 4, Lei de Ohm. |
+|   9  | 10/05 |   B   | Exp. 4, Lei de Ohm. |
+|  10  | 17/05 |   A   | Exp. 5, Circuito RC. |
+|  11  | 24/05 |   B   | Exp. 5, Circuito RC. |
+|  12  | 07/06 |   A   | Exp. 6, Campo magnético terrestre. |
+|  13  | 14/06 |   B   | Exp. 6, Campo magnético terrestre. |
+|  14  | 21/06 | A e B | Prova de laboratório. |
+|  15  | 28/06 | A e B | Entrega das notas da prova de laboratório. |
+|  16  | 05/07 | A e B | Entrega das notas finais da disciplina. |
