@@ -19,6 +19,9 @@ layout: home
 
 # Disciplinas
 - [Física Teórica 1]({{ site.baseurl }}{% link fisica1.md %})
-- [Laboratório de Física 2]({{ site.baseurl }}{% link lab2.md %})
 - [Laboratório de Física 3]({{ site.baseurl }}{% link lab3.md %})
+
+# Notas de aula
+- [Notas de Aula: Laboratórios de Física 1, 2 e 3](https://github.com/cgraeff/NotasLab/raw/master/NotasLaboratorio.pdf)
+- [Notas de Aula: Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
 

@@ -9,7 +9,6 @@ permalink: /fisica1/
 ## Material
 - [Slides da aula de apresentação](https://github.com/cgraeff/cgraeff.github.io/raw/master/slidesteo.pdf)
 - Notas de aula: [Notas de Aula: Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
-- Cronograma da disciplina: *O cronograma está disponível no sistema e no início das notas de aula de teoria.*
 
 ## Planilha de notas
 - [Planilha de notas das avaliações](https://docs.google.com/spreadsheets/d/1VVPK8xeJ8iA4JcVbB1dXw_KZo9_l7datCVHnaCA5A1M)
@@ -17,7 +16,6 @@ permalink: /fisica1/
 ## Listas de exercícios de Física 1
 
 - [Lista 1](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista1.pdf)
-- [Lista vetores](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista_vetores.pdf)
 - [Lista 2](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista2.pdf)
 - [Lista 3](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista3.pdf)
 - [Lista 4](https://github.com/cgraeff/cgraeff.github.io/raw/master/lista4.pdf)
