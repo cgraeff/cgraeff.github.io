@@ -22,8 +22,8 @@ permalink: /lab3/
 
 {% comment %}
 ## Notas nas avaliações
-- [Engenharia Civil](https://docs.google.com/spreadsheets/d/1jSljSxtMIdXV2PUtUWjJe6P7LCwAjXSAK0-N2nVGVaU/edit?usp=sharing)
-- [Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1-M2lEaOICcVvf9iWYJBk_BC3WpW5IhjEdhFIJxve24w/edit?usp=sharing)
+- [Engenharia Civil](https://docs.google.com/spreadsheets/d/1MKLaE08tRuGmSnN3v0KU5uthxdJl6UCJbtameIiRjGc/edit?usp=sharing)
+- [Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1FnFma83xDo1X4wQnLbFekp9vTCJS5znyhqJeqyv9zEQ/edit?usp=sharing)
 {% endcomment %}
 
 ## Cronograma de atividades

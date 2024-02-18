@@ -11,7 +11,7 @@ permalink: /fisica1/
 - Notas de aula: [Notas de Aula: Física 1](https://github.com/cgraeff/notas_fsc1/raw/master/NotasFisica1.pdf)
 
 ## Planilha de notas
-- [Planilha de notas das avaliações](https://docs.google.com/spreadsheets/d/1VVPK8xeJ8iA4JcVbB1dXw_KZo9_l7datCVHnaCA5A1M)
+- [Planilha de notas das avaliações](https://docs.google.com/spreadsheets/d/1jUHSCBusmodKjn9KfGkTfNevRaL9pHjRqWR43ljZV3o/edit?usp=sharing)
 
 ## Listas de exercícios de Física 1
 
