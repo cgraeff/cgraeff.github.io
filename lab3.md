@@ -27,7 +27,7 @@ permalink: /lab3/
 ## Cronograma de atividades
 Abaixo seguem os cronogramas das turmas de Engenharia Civil e de Engenharia Mecânica
 
-### Engenharia Civil
+### FI23NB-3EXTA (Aulas nas terças 8:20 - 10:00)
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
@@ -49,7 +49,7 @@ Abaixo seguem os cronogramas das turmas de Engenharia Civil e de Engenharia Mec�
 |   16   | 02/07 | Entrega das notas finais da disciplina. |
 {: .tablelines}
 
-### Engenharia Mecânica
+### FI23NB-2EXTA (Aulas nas sextas 10:20 - 12:00)
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
