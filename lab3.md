@@ -25,7 +25,6 @@ permalink: /lab3/
 - [Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1FnFma83xDo1X4wQnLbFekp9vTCJS5znyhqJeqyv9zEQ/edit?usp=sharing)
 
 ## Cronograma de atividades
-Abaixo seguem os cronogramas das turmas de Engenharia Civil e de Engenharia Mecânica
 
 ### FI23NB-3EXTA (Aulas nas terças 8:20 - 10:00)
 <style>
