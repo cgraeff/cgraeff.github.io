@@ -11,7 +11,7 @@ layout: home
 ## Professor
 
 - 3ª 17:30 - 18:20
-- 6ª 08:20 - 10:00
+- 5ª 17:30 - 18:20
 
 ## Monitores
 
