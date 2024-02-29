@@ -58,9 +58,9 @@ permalink: /lab3/
 | :----: | :---: | ------------- |
 |    1   | 08/03 | Apresentação da disciplina. |
 |    2   | 15/03 | Exp. 1, Introdução ao eletromagnetismo. |
-|    4   | 05/03 | Exp. 2, Superfícies equipotenciais. |
+|    4   | 05/04 | Exp. 2, Superfícies equipotenciais. |
 |    6   | 19/04 | Exp. 3, Capacitores de placas paralelas. |
-|    8   | 03/04 | Exp. 4, Lei de Ohm. |
+|    8   | 03/05 | Exp. 4, Lei de Ohm. |
 |   10   | 17/05 | Exp. 5, Circuito RC. |
 |   12   | 07/06 | Exp. 6, Campo magnético terrestre. |
 |   14   | 21/06 | Prova de laboratório. |
