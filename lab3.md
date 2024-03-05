@@ -21,8 +21,8 @@ permalink: /lab3/
 - [Elaboração de gráficos em software de planilhas](https://www.youtube.com/watch?v=x2kVREJWKGc&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=6&t=2s)
 
 ## Notas nas avaliações
-- [Engenharia Civil](https://docs.google.com/spreadsheets/d/1MKLaE08tRuGmSnN3v0KU5uthxdJl6UCJbtameIiRjGc/edit?usp=sharing)
-- [Engenharia Mecânica](https://docs.google.com/spreadsheets/d/1FnFma83xDo1X4wQnLbFekp9vTCJS5znyhqJeqyv9zEQ/edit?usp=sharing)
+- [FI23NB-3EXTA (aulas nas terças)](https://docs.google.com/spreadsheets/d/1MKLaE08tRuGmSnN3v0KU5uthxdJl6UCJbtameIiRjGc/edit?usp=sharing)
+- [FI23NB-2EXTA (aulas nas sextas)](https://docs.google.com/spreadsheets/d/1FnFma83xDo1X4wQnLbFekp9vTCJS5znyhqJeqyv9zEQ/edit?usp=sharing)
 
 ## Cronograma de atividades
 
