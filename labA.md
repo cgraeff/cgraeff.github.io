@@ -7,7 +7,7 @@ permalink: /labA/
 *Links para recursos que utilizaremos na disciplina e informações importantes.*
 
 ## Material
-- [Slides Lab. A](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslaba.pdf)
+- [Slides Lab. A](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA.pdf)
 - Notas de aula: [Notas de Aula: Física Experimental A e B](https://github.com/cgraeff/NotasLabAeB/raw/master/NotasLaboratorio.pdf)
 
 ## Questionários de laboratório
