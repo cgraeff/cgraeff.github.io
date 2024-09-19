@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Laboratório de Física 3
-permalink: /lab3/
+title: Física Experimental A
+permalink: /labA/
 ---
 
 *Links para recursos que utilizaremos na disciplina e informações importantes.*
 
 ## Material
-- [Slides Lab. 3](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslab3.pdf)
+- [Slides Lab. A](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslab.pdf)
 - Notas de aula: [Notas de Aula: Física Experimental A e B](https://github.com/cgraeff/NotasLabAeB/raw/master/NotasLaboratorio.pdf)
 
 ## Questionários de laboratório
