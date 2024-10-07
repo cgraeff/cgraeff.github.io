@@ -21,8 +21,8 @@ permalink: /labA/
 - [Elaboração de gráficos em software de planilhas](https://www.youtube.com/watch?v=x2kVREJWKGc&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=6&t=2s)
 
 ## Notas nas avaliações
-- [FS42NB-3MC (2ª 08:20 - 10:00)](https://docs.google.com/spreadsheets/d/1JIuW5WGhtnzlLdiEqNcJ6b6vfW2cE6arwp6SH6fBeG8/edit?usp=sharing)
-- [FS42NB-4CV (2ª 10:20 - 12:00)](https://docs.google.com/spreadsheets/d/1pUYEn4Ex-dP_q679pFguJP0s2cmV8jBlzWyg22LNXYM/edit?usp=sharing)
+- [FS42NB-4CV (2ª 08:20 - 10:00)](https://docs.google.com/spreadsheets/d/1pUYEn4Ex-dP_q679pFguJP0s2cmV8jBlzWyg22LNXYM/edit?usp=sharing)
+- [FS42NB-3MC (2ª 10:20 - 12:00)](https://docs.google.com/spreadsheets/d/1JIuW5WGhtnzlLdiEqNcJ6b6vfW2cE6arwp6SH6fBeG8/edit?usp=sharing)
 
 ## Cronograma de atividades
 
