@@ -7,9 +7,10 @@ permalink: /labA/
 *Links para recursos que utilizaremos na disciplina e informações importantes.*
 
 ## Material
-- [Slides Lab. A](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA.pdf)
 - Notas de aula: [Notas de Aula: Física Experimental A e B](https://github.com/cgraeff/NotasLabAeB/raw/master/NotasLaboratorio.pdf)
-- [Slides MRU-MRUV (com passo a passo do SciDAVis)](https://github.com/cgraeff/cgraeff.github.io/raw/master/slides-mru-mruv.pdf)
+- [Slides Lab. A](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/apres.pdf)
+- [Slides Exp. 1, Medidas](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-medidas.pdf)
+- [Slides Exp. 2, MRU-MRUV (com passo a passo do SciDAVis)](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-mru-mruv.pdf)
 
 ## Questionários de laboratório
 - As respostas dos questionários deve seguir o formato detalhado [nesse vídeo](https://www.youtube.com/watch?v=BIVszojx9B4).
