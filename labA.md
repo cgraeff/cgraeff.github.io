@@ -17,7 +17,7 @@ permalink: /labA/
 - As respostas devem ser submetidas via e-mail [cgraeff@professores.utfpr.edu.br](mailto:cgraeff@professores.utfpr.edu.br) em um único arquivo em formato PDF. No assunto (título) do e-mail, coloque o texto "Envio de respostas de questionário" (sem as aspas), isso vai ativar um filtro que impedirá o e-mail de ser classificado como spam e enviará uma resposta automática que vai certificar que o envio foi recebido sem problemas.
 
 ## Modelo de prova
-*A prova seguirá uma estrutura similar à [contida nesse link](https://github.com/cgraeff/cgraeff.github.io/blob/6c1e155efc6689b7cae92c57ed56aab4f013958a/prova_lab.pdf). Notem, no entanto, que não teremos o conteúdo de erros, pois ele se tornou parde de Física Experimental B. Vou substituir a última questão por alguma outra que aborde os conteúdos vistos ao longo do semestre.*
+*A prova seguirá uma estrutura similar à [contida nesse link](https://github.com/cgraeff/cgraeff.github.io/raw/master/prova_lab.pdf). Notem, no entanto, que não teremos o conteúdo de erros, pois ele se tornou parde de Física Experimental B. Vou substituir a última questão por alguma outra que aborde os conteúdos vistos ao longo do semestre.*
 
 ## Vídeos
 {% comment %}
