@@ -19,6 +19,9 @@ permalink: /labA/
 ## Modelo de prova
 *A prova seguirá uma estrutura similar à [contida nesse link](https://github.com/cgraeff/cgraeff.github.io/raw/master/prova_lab.pdf). Notem, no entanto, que não teremos o conteúdo de erros, pois ele se tornou parde de Física Experimental B. Vou substituir a última questão por alguma outra que aborde os conteúdos vistos ao longo do semestre.*
 
+## Trabalho de recuperação
+*O trabalho está [disponível nesse link](https://github.com/cgraeff/cgraeff.github.io/raw/master/Recuperacao_Fisica_Exp_A.pdf).*
+
 ## Vídeos
 {% comment %}
 - [Elaboração de gráficos em papel milimetrado](https://www.youtube.com/watch?v=YqKnV53UBDs&list=PLOaZLpYR0EZ5gLuFOneNgXdDREAapj-3V&index=5&t=2s)
