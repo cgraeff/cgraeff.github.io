@@ -19,6 +19,7 @@ permalink: /labA/
 - [Slides Exp. 8, Oscilações](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-oscilacoes.pdf)
 - [Slides Exp. 9, Ondas estacionárias](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-ondas-estacionarias.pdf)
 
+{% comment %}
 ## Questionários de laboratório
 - As respostas dos questionários deve seguir o formato detalhado [nesse vídeo](https://www.youtube.com/watch?v=BIVszojx9B4).
 - As respostas devem ser submetidas via e-mail [cgraeff@professores.utfpr.edu.br](mailto:cgraeff@professores.utfpr.edu.br) em um único arquivo em formato PDF. No assunto (título) do e-mail, coloque o texto "Envio de respostas de questionário" (sem as aspas), isso vai ativar um filtro que impedirá o e-mail de ser classificado como spam e enviará uma resposta automática que vai certificar que o envio foi recebido sem problemas.
@@ -26,7 +27,6 @@ permalink: /labA/
 ## Modelo de prova
 *A prova seguirá uma estrutura similar à [contida nesse link](https://github.com/cgraeff/cgraeff.github.io/raw/master/prova_lab.pdf). Notem, no entanto, que não teremos o conteúdo de erros, pois ele se tornou parde de Física Experimental B. Vou substituir a última questão por alguma outra que aborde os conteúdos vistos ao longo do semestre.*
 
-{% comment %}
 ## Trabalho de recuperação
 *O trabalho está [disponível nesse link](https://github.com/cgraeff/cgraeff.github.io/raw/master/Recuperacao_Fisica_Exp_A.pdf).*
 {% endcomment %}
