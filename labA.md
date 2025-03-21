@@ -54,13 +54,13 @@ permalink: /labA/
 |  3 | 14/04 | Exp. 2, Movimento retilíneo uniforme (MRU) e uniformemente variado (MRUV). |
 |  4 | 28/04 | Exp. 3, Leis de Newton. |
 |  5 | 05/05 | Exp. 4, Lei de Hooke. |
-|  6 | 12/05 | \textbf{Prova 1:} Algarismos significativos e elaboração de gráficos. |
+|  6 | 12/05 | **Prova 1:** Algarismos significativos e elaboração de gráficos. |
 |  7 | 19/05 | Exp. 5, Arrasto. |
 |  8 | 26/05 | Exp. 6, Atrito. |
 |  9 | 02/06 | Exp. 7, Roda de Maxwell. |
 | 10 | 09/06 | Exp. 8, Oscilações. |
 | 11 | 16/06 | Exp. 9, Ondas estacionárias. |
-| 12 | 23/06 | \textbf{Prova 2:} Algarismos significativos, regressão linear, e linearização. |
+| 12 | 23/06 | **Prova 2:** Algarismos significativos, regressão linear, e linearização. |
 | 13 | 30/06 | Recuperação.|
 | 14 | 07/07 | Entrega das notas finais. |
  {: .tablelines}
