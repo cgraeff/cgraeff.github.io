@@ -15,7 +15,7 @@ layout: home
 
 ## Monitores
 
-- [Planilha de horários 2024-2](https://docs.google.com/spreadsheets/d/1pg7HqwLvc1UKwE0hnGi-o0YP8KcIubOk-d7qK9gPW8o/edit?gid=0#gid=0)
+- [Planilha de horários 2025-1](https://docs.google.com/spreadsheets/d/1_k22bagCLAtKqLRcxww3V6YghxZ5Rvei3B46RtXFHOY/edit?usp=sharing)
 
 # Disciplinas
 - [Física Teórica 1]({{ site.baseurl }}{% link fisica1.md %})
