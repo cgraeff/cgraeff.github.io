@@ -10,12 +10,14 @@ layout: home
 
 ## Professor
 - Local: sala L008
+- 4ª 17:30 - 18:20
 - 6ª 17:30 - 18:20
-- 5ª 17:30 - 18:20
 
+{% comment %}
 ## Monitores
 
 - [Planilha de horários 2025-1](https://docs.google.com/spreadsheets/d/1_k22bagCLAtKqLRcxww3V6YghxZ5Rvei3B46RtXFHOY/edit?usp=sharing)
+{% endcomment %}
 
 # Disciplinas
 - [Física Teórica 1]({{ site.baseurl }}{% link fisica1.md %})
