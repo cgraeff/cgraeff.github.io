@@ -72,8 +72,9 @@ Na tabela abaixo estão os conteúdos previstos em cada data. Esse cronograma ta
 | 	27	 | 	11/11	 | 	Revisão para a Prova 3. |
 | 	28	 | 	13/11	 | 	**Prova 3**. |
 | 	29	 | 	18/11	 | 	*Rotações:* Cinemática da rotação (variáveis cinemáticas para rotações, sinais, equações para aceleração angular constante, relação entre variáveis de translação e de rotação). |
-| 	30	 |  	20/11	 | 	*Rotações:* Dinâmica da rotação (torque, segunda lei de Newton para as rotações). Cálculo do momento de inércia (momento de inércia de um sistema de partículas, aditividade do momento de inércia, momento de inércia de uma distribuição contínua, teorema dos eixos paralelos). |
-| 	31	 | 	25/27	 | 	*Rotações:* Trabalho e energia cinética para rotações (trabalho de um torque, teorema trabalho-energia para rotações). Movimentos combinados de rotação e de translação (dinâmica, energia). |
+| 	--	 |  	20/11	 | 	*Feriado.*
+| 	30	 |  	25/11	 | 	*Rotações:* Dinâmica da rotação (torque, segunda lei de Newton para as rotações). Cálculo do momento de inércia (momento de inércia de um sistema de partículas, aditividade do momento de inércia, momento de inércia de uma distribuição contínua, teorema dos eixos paralelos). |
+| 	31	 | 	27/11	 | 	*Rotações:* Trabalho e energia cinética para rotações (trabalho de um torque, teorema trabalho-energia para rotações). Movimentos combinados de rotação e de translação (dinâmica, energia). |
 | 	32	 | 	02/12	 | 	*Rolamento:* Características do rolamento, movimento das partículas de um corpo rígido durante o rolamento, forças no rolamento, energia cinética no rolamento. |
 | 	33 	 | 	04/12	 | 	*Rotações:* Características vetoriais das grandezas da rotação, momento angular, conservação do momento angular. |
 | 	34 	 | 	09/12	 | 	Revisão para a Prova 4. |
