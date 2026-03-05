@@ -10,8 +10,8 @@ layout: home
 
 ## Professor
 - Local: sala L008
+- 2ª 17:30 - 18:20
 - 4ª 17:30 - 18:20
-- 6ª 17:30 - 18:20
 
 {% comment %}
 ## Monitores

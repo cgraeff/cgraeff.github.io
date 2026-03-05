@@ -48,23 +48,23 @@ permalink: /labA/
 </style>
 |  Aula  | Data  | Experimento |
 | :----: | :---: | ----------- |
-|	  1 | 18/08 | Apresentação da disciplina. |
-| 	  2 | 25/08 | Exp. 1, Medidas e algarismos significativos. |
-| 	  3 | 01/09 | Exp. 2, Movimento retilíneo uniforme (MRU) e uniformemente variado (MRUV). |
-| 	  4 | 08/09 | Exp. 3, Leis de Newton. |
-| 	  5 | 15/09 | Exp. 4, Lei de Hooke. |
-| 	  6 | 22/09 | Exp. 5, Arrasto. |
-| 	  7 | 29/09 | **Prova 1:** Algarismos significativos e elaboração de gráficos. |
-| 	  8 | 06/10 | *Semana Acadêmica/TecSul.* |
-| 	  9 | 13/10 | Exp. 6, Atrito. |
-| 	 10 | 20/10 | Exp. 7, Energia mecânica. |
-| 	 -- | 27/10 | *Recesso.* |
-| 	 11 | 03/11 | Exp. 8, Roda de Maxwell. |
-| 	 12 | 10/11 | Exp. 9, Oscilações. |
-| 	 13 | 17/11 | Exp. 10, Ondas estacionárias. |
-| 	 14 | 24/11 | **Prova 2:** Algarismos significativos, regressão linear, e linearização. |
-| 	 15 | 01/12 | Entrega das notas pré-recuperação, dúvidas para recuperação. |
-| 	 16 | 08/12 | Recuperação.|
-| 	 17 | 15/12 | Entrega das notas finais.|
+|  1 | 16/03 | Apresentação da disciplina. |
+|  2 | 23/03 | Exp. 1, Medidas e algarismos significativos. |
+|  3 | 30/03 | Exp. 2, Movimento retilíneo uniforme (MRU) e uniformemente variado (MRUV). |
+|  4 | 06/04 | Exp. 3, Leis de Newton. |
+|  5 | 13/04 | Exp. 4, Lei de Hooke. |
+| - | 20/04 | \emph{Recesso.} |
+|  6 | 27/04 | Exp. 5, Arrasto. |
+|  7 | 04/05 | \textbf{Prova 1:} Algarismos significativos e elaboração de gráficos. |
+|  8 | 11/05 | Exp. 6, Atrito. |
+|  9 | 18/05 | Exp. 7, Roda de Maxwell. |
+| 10 | 25/05 | Exp. 8, Oscilações. |
+| 11 | 01/06 | Exp. 9, Pêndulo Físico. |
+| 12 | 08/06 | Exp. 10, Ondas estacionárias. |
+| 13 | 15/06 | \textbf{Prova 2:} Algarismos significativos, regressão linear, e linearização. |
+| 14 | 22/06 | Entrega das notas finais pré-recuperação, dúvidas para a prova de recuperação. |
+| - | 29/06 | \emph{Recesso.} |
+| 15 | 06/07 | \textbf{Recuperação.}|
+| 16 | 13/07 | Entrega das notas finais.|
  {: .tablelines}
 
