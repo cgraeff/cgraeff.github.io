@@ -55,7 +55,7 @@ Na tabela abaixo estão os conteúdos previstos em cada data. Esse cronograma ta
 | 10	 | 	09/04	 | 	*Dinâmica da partícula:* Terceira lei de Newton, forças forças fundamentais, força gravitacional e peso, força elástica. |
 | 11	 | 	14/04	 | 	*Dinâmica da partícula:* Força normal, exercícios.|
 | 12	 | 	16/04	 | 	*Dinâmica da partícula:* Múltiplos corpos, forças de tensão, sistemas de referência orientados de acordo com o movimento.|
-| -	 |	21/04 	 | 	\emph{Feriado (Tiradentes).* |
+| -	 |	21/04 	 | 	*Feriado (Tiradentes).* |
 | 13	 | 	23/04	 | 	*Dinâmica da partícula:* Forças de atrito e arrasto. |
 | 14	 | 	28/04	 | 	*Dinâmica da partícula:* Forças no movimento circular. |
 | 15	 | 	30/04	 | 	Revisão para a Prova 2. |
@@ -68,7 +68,7 @@ Na tabela abaixo estão os conteúdos previstos em cada data. Esse cronograma ta
 | 22	 | 	26/05	 | 	*Momento linear:* Momento linear, momento linear e segunda lei de Newton para um sistema de partículas, conservação do momento linear. Centro de massa: centro de massa de um conjunto de partículas, segunda lei de Newton para o centro de massa, teorema de Mozzi-Chasles. |
 | 23 	 |	28/05	 |	*Momento linear:* Centro de massa de um corpo extenso. Energia potencial gravitacional e centro de massa. |	
 | 24	 | 	02/06	 | 	*Momento linear:* Impulso, forças em colisões. Colisões unidimensionais entre duas partículas. Energia em colisões, colisões elásticas. |
-| -	 |	04/06	 |	\emph{Feriado (Corpus Christi).*|
+| -	 |	04/06	 |	*Feriado (Corpus Christi).*|
 | 25	 | 	09/06	 | 	Revisão para a Prova 3. |
 | 26	 | 	11/06	 | 	**Prova 3**. |
 | 27	 | 	16/06	 | 	*Rotações:* Cinemática da rotação (variáveis cinemáticas para rotações, sinais, equações para aceleração angular constante, relação entre variáveis de translação e de rotação). |
