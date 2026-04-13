@@ -12,8 +12,8 @@ permalink: /labA/
 - [Slides Exp. 1, Medidas](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-medidas.pdf)
 - [Slides Exp. 2, MRU-MRUV (com passo a passo do SciDAVis)](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-mru-mruv.pdf)
 - [Slides Exp. 3, Leis de Newton](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-leis-de-newton.pdf)
-{% comment %}
 - [Slides Exp. 4, Lei de Hooke](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-lei-de-hooke.pdf)
+{% comment %}
 - [Slides Exp. 5, Arrasto](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-arrasto.pdf)
 - [Slides Exp. 6, Atrito](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-atrito.pdf)
 - [Slides Exp. 7, Roda de Maxwell](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-roda-de-maxwell.pdf)
