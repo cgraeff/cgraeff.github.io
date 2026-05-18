@@ -15,8 +15,8 @@ permalink: /labA/
 - [Slides Exp. 4, Lei de Hooke](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-lei-de-hooke.pdf)
 - [Slides Exp. 5, Arrasto](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-arrasto.pdf)
 - [Slides Exp. 6, Atrito](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-atrito.pdf)
-{% comment %}
 - [Slides Exp. 7, Roda de Maxwell](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-roda-de-maxwell.pdf)
+{% comment %}
 - [Slides Exp. 8, Oscilações](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-oscilacoes.pdf)
 - [Slides Exp. 9, Ondas estacionárias](https://github.com/cgraeff/cgraeff.github.io/raw/master/slideslabA/slides-ondas-estacionarias.pdf)
 {% endcomment %}
