@@ -57,12 +57,12 @@ permalink: /labA/
 |  6 | 05/10 | Exp. 5, Arrasto. |
 | -- | 12/10 | *Feriado.* |
 |  7 | 19/10 | Exp. 6, Atrito. SICITE. |
-|  8 | 26/10 | *Prova 1:* Algarismos significativos e elaboração de gráficos. |
+|  8 | 26/10 | **Prova 1:** Algarismos significativos e elaboração de gráficos. |
 | -- | 02/11 | *Feriado.* | 
 |  9 | 09/11 | Exp. 7, Roda de Maxwell. |
 | 10 | 16/11 | Exp. 8, Oscilações. |
 | 11 | 23/11 | Exp. 9, Ondas estacionárias. |
-| 12 | 30/11 | *Prova 2:* Algarismos significativos, regressão linear, e linearização. |
+| 12 | 30/11 | **Prova 2:** Algarismos significativos, regressão linear, e linearização. |
 | 13 | 07/12 | *Recuperação*. |
 | -- | 14/12 | *Feriado.*|
 {: .tablelines}
