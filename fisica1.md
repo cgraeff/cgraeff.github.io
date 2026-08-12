@@ -56,7 +56,7 @@ Na tabela abaixo estão os conteúdos previstos em cada data. Esse cronograma ta
 | 9	 | 	15/09	 | 	*Dinâmica da partícula:* Conceitos de força e massa, primeira lei de Newton e princípio da inércia segundo Galileu, segunda lei de Newton, diagramas de força e sistemas de referência, sistemas em equilíbrio. |
 | 10	 | 	17/09	 | 	*Dinâmica da partícula:* Terceira lei de Newton, forças forças fundamentais, força gravitacional e peso, força elástica. |
 | 11	 | 	22/09	 | 	*Dinâmica da partícula:* Força normal, exercícios.|
-| ---	 |  24/09	 |  \emph{Feira de profissões*. |
+| ---	 |  24/09	 |  *Feira de profissões*. |
 | 12	 | 	29/09	 | 	*Dinâmica da partícula:* Múltiplos corpos, forças de tensão, sistemas de referência orientados de acordo com o movimento.|
 | 13	 | 	01/10	 | 	*Dinâmica da partícula:* Forças de atrito e arrasto. |
 | 14	 | 	06/10	 | 	*Dinâmica da partícula:* Forças no movimento circular. |
@@ -67,8 +67,8 @@ Na tabela abaixo estão os conteúdos previstos em cada data. Esse cronograma ta
 | 19	 | 	22/10	 | 	*Trabalho e energia mecânica:* Energia mecânica, energia mecânica em sistemas com múltiplos corpos. Energia mecânica em gráficos de potencial: pontos de retorno. |
 | 20	 | 	27/10	 | 	*Trabalho e energia mecânica:* Trabalho de forças não-conservativas, Princípio da conservação da energia (forças externas, energia interna). |
 | 21	 | 	29/10	 | 	*Momento linear:* Momento linear, momento linear e segunda lei de Newton para um sistema de partículas, conservação do momento linear. Centro de massa: centro de massa de um conjunto de partículas, segunda lei de Newton para o centro de massa, teorema de Mozzi-Chasles. |
-| ---	 |	03/11	 |	\emph{Inventum, Semana Acadêmica*. |
-| ---	 |	05/11	 |	\emph{Inventum, Semana Acadêmica*. |
+| ---	 |	03/11	 |	*Inventum, Semana Acadêmica*. |
+| ---	 |	05/11	 |	*Inventum, Semana Acadêmica*. |
 | 22	 | 	10/11	 | 	*Momento linear:* Centro de massa de um corpo extenso. Energia potencial gravitacional e centro de massa. |
 | 23 	 |	12/11	 |	*Momento linear:* Impulso, forças em colisões. Colisões unidimensionais entre duas partículas. Energia em colisões, colisões elásticas. |	
 | 24	 | 	17/11	 | 	Revisão para a Prova 3. |
@@ -81,4 +81,4 @@ Na tabela abaixo estão os conteúdos previstos em cada data. Esse cronograma ta
 | 31 	 | 	10/12	 | 	**Prova 4**. |
 | 32 	 | 	15/12	 | 	Entrega das notas da Prova 4 e médias finais pré-recuperação. |
 | 33 	 | 	17/12	 | 	**Provas substitutivas e exame**: Os alunos que optarem por não realizar a prova estão dispensados. |
-| {: .tablelines}
+{: .tablelines}

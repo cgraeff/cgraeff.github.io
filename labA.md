@@ -50,20 +50,20 @@ permalink: /labA/
 | :----: | :---: | ----------- |
 |  1 | 24/08 | Apresentação da disciplina. |
 |  2 | 31/08 | Exp. 1, Medidas e algarismos significativos. |
-| -- | 07/09 | \emph{Feriado.} |
+| -- | 07/09 | *Feriado.* |
 |  3 | 14/09 | Exp. 2, Movimento retilíneo uniforme (MRU) e uniformemente variado (MRUV). |
 |  4 | 21/09 | Exp. 3, Leis de Newton. |
 |  5 | 28/09 | Exp. 4, Lei de Hooke. |
 |  6 | 05/10 | Exp. 5, Arrasto. |
-| -- | 12/10 | \emph{Feriado.} |
+| -- | 12/10 | *Feriado.* |
 |  7 | 19/10 | Exp. 6, Atrito. SICITE. |
-|  8 | 26/10 | \textbf{Prova 1:} Algarismos significativos e elaboração de gráficos. |
-| -- | 02/11 | \emph{Feriado.} | 
+|  8 | 26/10 | *Prova 1:* Algarismos significativos e elaboração de gráficos. |
+| -- | 02/11 | *Feriado.* | 
 |  9 | 09/11 | Exp. 7, Roda de Maxwell. |
 | 10 | 16/11 | Exp. 8, Oscilações. |
 | 11 | 23/11 | Exp. 9, Ondas estacionárias. |
-| 12 | 30/11 | \textbf{Prova 2:} Algarismos significativos, regressão linear, e linearização. |
-| 13 | 07/12 | \textbf{Recuperação}. |
-| -- | 14/12 | \emph{Feriado.}|
+| 12 | 30/11 | *Prova 2:* Algarismos significativos, regressão linear, e linearização. |
+| 13 | 07/12 | *Recuperação*. |
+| -- | 14/12 | *Feriado.*|
 {: .tablelines}
 
