@@ -55,8 +55,8 @@ Na tabela abaixo estão os conteúdos previstos em cada data. Esse cronograma ta
 | 8	 |	10/09	 |	**Prova 1**. |
 | 9	 | 	15/09	 | 	*Dinâmica da partícula:* Conceitos de força e massa, primeira lei de Newton e princípio da inércia segundo Galileu, segunda lei de Newton, diagramas de força e sistemas de referência, sistemas em equilíbrio. |
 | 10	 | 	17/09	 | 	*Dinâmica da partícula:* Terceira lei de Newton, forças forças fundamentais, força gravitacional e peso, força elástica. |
-| 11	 | 	22/09	 | 	*Dinâmica da partícula:* Força normal, exercícios.|
-| ---	 |  24/09	 |  *Feira de profissões*. |
+| 11	 | 	22/09	 | 	*Dinâmica da partícula:* Força normal e de tensão.|
+| ---	 |  24/09	 |  *Dinâmica da partícula:* Exercícios. (Feira de profissões) |
 | 12	 | 	29/09	 | 	*Dinâmica da partícula:* Múltiplos corpos, forças de tensão, sistemas de referência orientados de acordo com o movimento.|
 | 13	 | 	01/10	 | 	*Dinâmica da partícula:* Forças de atrito e arrasto. |
 | 14	 | 	06/10	 | 	*Dinâmica da partícula:* Forças no movimento circular. |
