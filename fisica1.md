@@ -29,10 +29,10 @@ permalink: /fisica1/
 - [Vídeos da Lista 4](https://www.youtube.com/playlist?list=PLOaZLpYR0EZ4lRy-nI4aailu9nnteT3Tb)
 
 
+{% comment %}
 ## Formulário para requisição de prova substitutiva
 Usem o link abaixo para requisitar a prova substitutiva/exame que desejam fazer.
 - [Requisição de substitutivas/exame](https://forms.gle/cXesz4hCkLF5odaQ6)
-{% comment %}
 um comentario
 {% endcomment %}
 
