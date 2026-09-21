@@ -13,10 +13,24 @@ layout: home
 - 2ª 17:30 - 18:20
 - 4ª 17:30 - 18:20
 
-{% comment %}
 ## Monitores
 
-- [Planilha de horários 2025-1](https://docs.google.com/spreadsheets/d/1_k22bagCLAtKqLRcxww3V6YghxZ5Rvei3B46RtXFHOY/edit?usp=sharing)
+- [Planilha de horários de monitoria 2026-2](https://docs.google.com/spreadsheets/d/1_k22bagCLAtKqLRcxww3V6YghxZ5Rvei3B46RtXFHOY/edit?gid=0#gid=0)
+- Presencial:
+    - Segunda-feira das 13h00 as 15h30
+    - Terça-feira das 07h30 as 08h20
+    - quarta-feira das 07h30 as 08h20
+    - quinta-feira das 07h30 as 08h20
+    - Local: Sala de monitoria (Bloco W)
+- Online:
+    - Terça-feira das 13h00 as 13h50
+    - quarta-feira das 13h50 as 15h30 e das 15h50 as 16h40
+    - quinta-feira das 13h00 as 13h50
+    - sexta-feira das 07h30 as 08h20
+    - [Link: https://meet.google.com/jbi-wzpy-mhv](https://meet.google.com/jbi-wzpy-mhv)
+
+{% comment %}
+um comentário
 {% endcomment %}
 
 # Disciplinas
